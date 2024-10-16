@@ -20,5 +20,11 @@
 
         <context>epamTestButtonMacro</context>
     </web-resource>
-    
+
+    <xhtml-macro key="epamtestbutton-macro" name="epamtestbutton" class="com.atlassian.tutorial.macro.epamtestbutton">
+        <description key="epamtestbutton.macro.description"/>
+        <category name="development"/>
+        <parameters/>
+    </xhtml-macro>
+
 </atlassian-plugin>

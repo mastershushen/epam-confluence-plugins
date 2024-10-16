@@ -1,0 +1,11 @@
+# EPAM Confluence Plugins
+
+## Prerequisites
+
+- Atlassian SDK 8.2.7
+- JDK 11
+- Maven 3.8.5 ([Changing the default Maven version](https://developer.atlassian.com/server/framework/atlassian-sdk/changing-the-default-maven-version/))
+
+## Useful Resources
+
+- [Create a Confluence 'Hello World' macro](https://developer.atlassian.com/server/framework/atlassian-sdk/create-a-confluence-hello-world-macro/)
