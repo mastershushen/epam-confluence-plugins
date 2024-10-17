@@ -1,0 +1,19 @@
+.epam-button {
+    padding: 12px 24px;
+    border: none;
+    border-radius: 3px;
+    color: #FFF;
+    cursor: pointer;
+}
+
+.epam-button--red {
+    background-color: #FF4242;
+}
+
+.epam-button--green {
+    background-color: #07A956;
+}
+
+.epam-button--blue {
+    background-color: #0A68F1;
+}
